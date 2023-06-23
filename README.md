@@ -12,12 +12,9 @@ Matplotlib
 ## Data
 Five datasets are used in this project:
 
-[Copenet SMS, Copenet FB](https://figshare.com/articles/dataset/The_Copenhagen_Networks_Study_interaction_data/7267433/1?file=13389839)
-
-[CollegeMsg](http://snap.stanford.edu/data/CollegeMsg.html)
-
-[ca-GrQc](http://snap.stanford.edu/data/ca-GrQc.html)
-
-[ego Facebook](http://snap.stanford.edu/data/ego-Facebook.html)
+* [Copenet SMS, Copenet FB](https://figshare.com/articles/dataset/The_Copenhagen_Networks_Study_interaction_data/7267433/1?file=13389839)
+* [CollegeMsg](http://snap.stanford.edu/data/CollegeMsg.html)
+* [ca-GrQc](http://snap.stanford.edu/data/ca-GrQc.html)
+* [ego Facebook](http://snap.stanford.edu/data/ego-Facebook.html)
 
 ## Usage
