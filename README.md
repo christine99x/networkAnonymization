@@ -2,12 +2,12 @@
 [comment]: <This is a master's thesis project, which includes 5 methods for graph anonymization by edge deletion. More details of algorithms can be found in the [corresponding thesis]() in the [repository of LIACS]().> 
 
 ## Dependencies
-iGraph  
-NetworkX  
-NumPy  
-Pandas  
-scikit-learn  
-Matplotlib  
+[iGraph]([https://igraph.org/python/tutorial/0.9.8/tutorial.html](https://igraph.org/))  
+[NetworkX](https://networkx.org/)  
+[NumPy](https://numpy.org/doc/stable/)  
+[Pandas](https://pandas.pydata.org/)  
+[scikit-learn](https://scikit-learn.org/stable/)  
+[Matplotlib](https://matplotlib.org/)  
 
 ## Data
 Five datasets are used in this project:
