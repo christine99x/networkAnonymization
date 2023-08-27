@@ -1,6 +1,3 @@
-# Anonymization Algorithms for Privacy-Sensitive Networks
-[comment]: <This is a master's thesis project, which includes 5 methods for graph anonymization by edge deletion. More details of algorithms can be found in the [corresponding thesis]() in the [repository of LIACS]().> 
-
 ## Dependencies
 * [iGraph](https://igraph.org/): 0.10.4
 * [NetworkX](https://networkx.org/): 2.8.4
