@@ -27,7 +27,7 @@ The variable `STEP` refers to the recompute gap *g*, which determines how many e
 * LR-based deletion: `LR1Round`
 * *(n,m)*-greedy deletion: `greedy1Round`
 
-More details of the algorithms can be found in the corresponding thesis.
+The training data of LR-based deletion can be found [here](training_data.csv). More details of the algorithms can be found in the corresponding thesis.
 
 ## Reference
 [1] Rachel G. de Jong, Mark P. J. van der Loo, and Frank W. Takes. 2023. Algorithms for Efficiently Computing Structural Anonymity in Complex Networks. ACM J. Exp. Algor. 28, 1, Article 1.7 (August 2023), 22 pages. https://doi.org/10.1145/3604908
